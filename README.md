@@ -1,44 +1,27 @@
-## Oleose - Mobile App Landing Page
+# [Start Bootstrap](http://startbootstrap.com/) - [New Age](http://startbootstrap.com/template-overviews/new-age/)
 
-Oleose is free bootstrap Bootstrap 3 template with eye catching fully responsive design for any app profissional landing page. Template comes with developer friendly and easy to customizable code. It works on all main web browsers 'IE8+', tablets and phones.
+[New Age](http://startbootstrap.com/template-overviews/new-age/) is a web app landing page theme for [Bootstrap](http://getbootstrap.com/) created by [Start Bootstrap](http://startbootstrap.com/).
 
-Template Link & Preview [Oleose Preview](http://www.scoopthemes.com/templates/Oleose-Theme/)
+## Getting Started
 
-### Author
+To begin using this template, choose one of the following options to get started:
+* [Download the latest release on Start Bootstrap](http://startbootstrap.com/template-overviews/new-age/)
+* Clone the repo: `git clone https://github.com/BlackrockDigital/startbootstrap-new-age.git`
+* Fork the repo
 
-Built with all the love in the world by Scoop Themes.
+## Bugs and Issues
 
-Check more of our open source templates and themes [http://scoopthemes.com](http://scoopthemes.com).
+Have a bug or an issue with this template? [Open a new issue](https://github.com/BlackrockDigital/startbootstrap-new-age/issues) here on GitHub or leave a comment on the [template overview page at Start Bootstrap](http://startbootstrap.com/template-overviews/new-age/).
 
-Follow us on twitter and stay tuned for any upcoming free items [@ScoopThemes](https://twitter.com/ScoopThemes).
+## Creator
 
-### Features
+Start Bootstrap was created by and is maintained by **[David Miller](http://davidmiller.io/)**, Owner of [Blackrock Digital](http://blackrockdigital.io/).
 
-+ Built With Bootstrap 3 Latest Stable Version.
-+ Section Animation.
-+ Eye Catching
-+ JQuery Latest Plugins.
-+ Three Predefined Colors.
-+ Three Free Logo PSD.
-+ Mobile Mockups.
-+ Built With LESS.
-+ Well Documented.
-+ SEO Friendly.
-+ W3C Valid HTML5.
+* https://twitter.com/davidmillerskt
+* https://github.com/davidtmiller
 
-### Changelog
+Start Bootstrap is based on the [Bootstrap](http://getbootstrap.com/) framework created by [Mark Otto](https://twitter.com/mdo) and [Jacob Thorton](https://twitter.com/fat).
 
-##### Version 1.2
-+ Bootstrap update 3.3.2
-+ Mobile menu disapear on link click
-+ Changing colors now easier
-+ Better project structure
-+ Bug fixes
+## Copyright and License
 
-
-### License
-
-All demos and examples, whether in a code project’s repository or displayed on a Scoop Themes site, are released under the terms of [CC0](http://en.wikipedia.org/wiki/Creative_Commons_license/).
-
-CC0 is even more permissive than the MIT license, allowing you to use the code in any manner you want, without any copyright headers, notices, or other attribution.
-
+Copyright 2013-2016 Blackrock Digital LLC. Code released under the [MIT](https://github.com/BlackrockDigital/startbootstrap-new-age/blob/gh-pages/LICENSE) license.
